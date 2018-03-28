@@ -5,3 +5,4 @@ from .struct import *
 from .task import *
 from .cmdLineTask import *
 from .timer import *
+from .myTask import *
